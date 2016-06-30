@@ -1,0 +1,16 @@
+body{
+  width: 100%;
+  text-align: center;
+}
+h2{
+  font-size: 1.5em;
+}
+span{
+  display: inline-block;
+  width: 30%;
+  margin: auto;
+  padding: 10px;
+}
+img{
+  height: 300px;
+}
