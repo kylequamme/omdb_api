@@ -5,7 +5,11 @@ body{
 h2{
   font-size: 1.5em;
 }
-span{
+.input-group{
+  width: 30%;
+  margin: 0 auto;
+}
+.result{
   display: inline-block;
   width: 30%;
   margin: auto;
